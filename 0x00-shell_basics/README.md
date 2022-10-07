@@ -1,2 +1,1 @@
-non empty readme
-changes in github
+script that prints the absolute path name of the current working directory
