@@ -1,2 +1,2 @@
 #!/bin/bash
-cdown --from=guillaume betty hello
+chown --from=guillaume betty hello
